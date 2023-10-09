@@ -1,4 +1,3 @@
-
 </head>
 <body>
     <h1>Bienvenidos a mi perfil</h1>
@@ -6,4 +5,4 @@
     <img src="imagenes/octocat.png"  width="200">
 
 </body>
-</html>
+
